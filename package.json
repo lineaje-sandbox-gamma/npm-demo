@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "minimist": "1.2.8",
-    "ip": "2.0.1"
+    "ip": "2.0.1-lineaje-01"
   }
 }
