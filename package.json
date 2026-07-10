@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "minimist": "1.2.8",
-    "taffydb": "2.7.3",
+    "taffydb": "2.7.3-lineaje-01",
     "zod": "4.4.3",
     "ms": "2.1.3",
     "uuid": "14.0.1",
